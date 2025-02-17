@@ -19,8 +19,14 @@
 <img src="https://img.shields.io/badge/C-00599C?logo=c&logoColor=white" alt="C">
 <img src="https://img.shields.io/badge/CSS-1572B6?logo=css3&logoColor=fff" alt="CSS">
 <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff" alt="Python">
-
 </p>
+
+<h3>My GitHub contributions summary</h3>
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=PauloVieira-1/&theme=dark&ring=fb4362&file=fb4362&currStreakNum=fb4362&currStreakLabel=fb4362&hide_border=true)](https://git.io/streak-stats)
+
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=PauloVieira-1/&hide_border=true&show_icons=true&bg_color=151515&title_color=fb4362&icon_color=fb4362&text_bold=false&text_color=9e9e9e)
+
 <!--
 **PauloVieira-1/PauloVieira-1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
