@@ -1,4 +1,4 @@
-#  🌍  Hi, I'm Paulo Vieira 
+![Alt text](https://raw.githubusercontent.com/PauloVieira-1/PauloVieira-1/main/Screenshot%202025-02-17%20at%208.04.41%20PM.png)
 
 ### About Me 🇿🇦 🇵🇹	
 ---
