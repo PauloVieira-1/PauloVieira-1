@@ -1,7 +1,11 @@
 ## Hi, I'm Paulo Vieira 
 
 ### About Me 
+
+I am a student currently completing my Bachelor's degree at Eindhoven University of Technology. Despite doing my higher education in The Netherlands, I was born South Africa, am half Portuguese and completed my high school education in Dubai. Having had such an international background from an early age, I have been given the opportunity to see how the impact of technology and technological revolution has shaped cultures and identities on a global scale. From witnessing the complex computer softwares used by my father as an air traffic controller in South Africa, to seeing how student led coding projects in Dubai have led to the development of sustainable smart neighborhoods, I have grown up seeing the impact of technology in every environment I have participated in. As a result, I want to participate in this dynamic ecosystem and will perusing a career in software development.   
+
 ### My experience 
+
 <h3>I have experience in the following areas</h3>
 <p>
   <img alt="html5" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
