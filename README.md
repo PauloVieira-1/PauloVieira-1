@@ -1,35 +1,52 @@
 ## Hi, I'm Paulo Vieira 
 
 ### About Me 
+---
+
 I am a student currently completing my Bachelor's degree at Eindhoven University of Technology. Despite doing my higher education in The Netherlands, I was born South Africa, am half Portuguese and completed my high school education in Dubai. Having had such an international background from an early age, I have been given the opportunity to see how the impact of technology and technological revolution has shaped cultures and identities on a global scale. From witnessing the complex computer softwares used by my father as an air traffic controller in South Africa, to seeing how student led coding projects in Dubai have led to the development of sustainable smart neighborhoods, I have grown up seeing the impact of technology in every environment I have participated in. As a result, I want to participate in this dynamic ecosystem and will perusing a career in software development.   
 
-<code style="color : name_color">text</code>
-
 ### My experience 
+---
 
-<h3>I have experience in the following areas</h3>
-<p>
-  <img alt="html5" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
-  <img alt="Javascript" src="https://img.shields.io/badge/-javascript-f7df1c?style=flat-square&logo=javascript&logoColor=black" />
-  <img alt="Bootstrap" src="https://img.shields.io/badge/-bootstrap-7953b3?style=flat-square&logo=javascript&logoColor=white" />
-  <img alt="TypeScript" src="https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white" />
-  <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" />
-  <img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=Node.js&logoColor=white" />
-  <img alt="Webpack" src="https://img.shields.io/badge/-Webpack-8DD6F9?style=flat-square&logo=webpack&logoColor=white" />
-  <img alt="github actions" src="https://img.shields.io/badge/-Github_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white" />
-  <img alt="Sass" src="https://img.shields.io/badge/-Sass-CC6699?style=flat-square&logo=sass&logoColor=white" />
-  <img alt="npm" src="https://img.shields.io/badge/-NPM-CB3837?style=flat-square&logo=npm&logoColor=white" />
-  <img alt="MongoDB" src="https://img.shields.io/badge/-MongoDB-13aa52?style=flat-square&logo=mongodb&logoColor=white" />
-  <img src="https://img.shields.io/badge/Neo4j-008CC1?logo=neo4j&logoColor=white" alt="Neo4j">
-<img src="https://img.shields.io/badge/SQLite-%2307405e.svg?logo=sqlite&logoColor=white" alt="SQLite">
-<img src="https://img.shields.io/badge/Stripe-5851DD?logo=stripe&logoColor=fff" alt="Stripe">
-<img src="https://img.shields.io/badge/C-00599C?logo=c&logoColor=white" alt="C">
-<img src="https://img.shields.io/badge/CSS-1572B6?logo=css3&logoColor=fff" alt="CSS">
-<img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff" alt="Python">
-</p>
 
-<h3>My GitHub contributions summary</h3>
+###  💻   Tech Stack
+  
+  #### &nbsp;&nbsp;&nbsp;&nbsp; 1. Languages 
+&nbsp;&nbsp;&nbsp;&nbsp;  [![C](https://img.shields.io/badge/C-00599C?logo=c&logoColor=white)](#)
+  [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000)](#)
+  [![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=fff)](#)
+  [![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff)](#)
+  [![R](https://img.shields.io/badge/R-%23276DC3.svg?logo=r&logoColor=white)](#)
+  [![HTML](https://img.shields.io/badge/HTML-%23E34F26.svg?logo=html5&logoColor=white)](#)
+  [![CSS](https://img.shields.io/badge/CSS-1572B6?logo=css3&logoColor=fff)](#)
+  [![Sass](https://img.shields.io/badge/Sass-C69?logo=sass&logoColor=fff)](#)
 
+  
+  #### &nbsp;&nbsp;&nbsp;&nbsp; 2.Databases 
+  &nbsp;&nbsp;&nbsp;&nbsp;[![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?logo=mongodb&logoColor=white)](#)
+[![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=fff)](#)
+[![Neo4J](https://img.shields.io/badge/Neo4j-008CC1?logo=neo4j&logoColor=white)](#)
+[![SQLite](https://img.shields.io/badge/SQLite-%2307405e.svg?logo=sqlite&logoColor=white)](#)
+
+  ### &nbsp;&nbsp;&nbsp;&nbsp; 3.Data Science 
+  &nbsp;&nbsp;&nbsp;&nbsp;[![Matplotlib](https://custom-icon-badges.demolab.com/badge/Matplotlib-71D291?logo=matplotlib&logoColor=fff)](#)
+[![NumPy](https://img.shields.io/badge/NumPy-4DABCF?logo=numpy&logoColor=fff)](#)
+[![Pandas](https://img.shields.io/badge/Pandas-150458?logo=pandas&logoColor=fff)](#)
+
+### &nbsp;&nbsp;&nbsp;&nbsp; 4. Frameworks &  Technologies
+&nbsp;&nbsp;&nbsp;&nbsp;[![Anaconda](https://img.shields.io/badge/Anaconda-44A833?logo=anaconda&logoColor=fff)](#)
+[![Babel](https://img.shields.io/badge/Babel-F9DC3E?logo=babel&logoColor=000)](#)
+[![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?logo=bootstrap&logoColor=fff)](#)
+[![Express.js](https://img.shields.io/badge/Express.js-%23404d59.svg?logo=express&logoColor=%2361DAFB)](#)
+[![Flask](https://img.shields.io/badge/Flask-000?logo=flask&logoColor=fff)](#)
+[![React](https://img.shields.io/badge/React-%2320232a.svg?logo=react&logoColor=%2361DAFB)](#)
+[![TailwindCSS](https://img.shields.io/badge/Tailwind%20CSS-%2338B2AC.svg?logo=tailwind-css&logoColor=white)](#)
+[![Stripe](https://img.shields.io/badge/Stripe-5851DD?logo=stripe&logoColor=fff)](#)
+[![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=fff)](#)
+
+
+### My GitHub contributions summary
+---
 ![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=PauloVieira-1&hide_border=true&show_icons=true&bg_color=151515&title_color=fb4362&icon_color=fb4362&text_bold=false&text_color=9e9e9e)
 
 <!--
