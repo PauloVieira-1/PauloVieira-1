@@ -1,4 +1,4 @@
-## Hi there 👋
+## 
 
 <h3>I have experience in the following areas</h3>
 <p>
