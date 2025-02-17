@@ -11,7 +11,7 @@ I am a student currently completing my Bachelor's degree at Eindhoven University
 3. Reading
 4. Bouldering 
 5. Programming 😎
-
+6. Volunteering at Church 
 
 ### My experience 
 ---
