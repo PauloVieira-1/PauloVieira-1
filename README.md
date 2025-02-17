@@ -4,10 +4,7 @@
 <font color="red"> 
 I am a student currently completing my Bachelor's degree at Eindhoven University of Technology. Despite doing my higher education in The Netherlands, I was born South Africa, am half Portuguese and completed my high school education in Dubai. Having had such an international background from an early age, I have been given the opportunity to see how the impact of technology and technological revolution has shaped cultures and identities on a global scale. From witnessing the complex computer softwares used by my father as an air traffic controller in South Africa, to seeing how student led coding projects in Dubai have led to the development of sustainable smart neighborhoods, I have grown up seeing the impact of technology in every environment I have participated in. As a result, I want to participate in this dynamic ecosystem and will perusing a career in software development.   
 
-</font>
-
-<font color="red">This text is red!</font>
-
+  <span style="color:red;">your text here in red</span>, 
 
 ### My experience 
 
