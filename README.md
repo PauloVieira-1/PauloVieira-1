@@ -13,12 +13,8 @@ I am a student currently completing my Bachelor's degree at Eindhoven University
 5. Programming 😎
 6. Volunteering at Church 
 
-### My experience 
----
-
-
-###  💻   Tech Stack
-  
+### Tech Stack 💻
+  ---
   #### &nbsp;&nbsp;&nbsp;&nbsp; 1. Languages 
 &nbsp;&nbsp;&nbsp;&nbsp;  [![C](https://img.shields.io/badge/C-00599C?logo=c&logoColor=white)](#)
   [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000)](#)
@@ -71,3 +67,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+```
+
+```
