@@ -28,12 +28,12 @@ I am a student currently completing my Bachelor's degree at Eindhoven University
 [![Neo4J](https://img.shields.io/badge/Neo4j-008CC1?logo=neo4j&logoColor=white)](#)
 [![SQLite](https://img.shields.io/badge/SQLite-%2307405e.svg?logo=sqlite&logoColor=white)](#)
 
-  ### &nbsp;&nbsp;&nbsp;&nbsp; 3.Data Science 
+  #### &nbsp;&nbsp;&nbsp;&nbsp; 3.Data Science 
   &nbsp;&nbsp;&nbsp;&nbsp;[![Matplotlib](https://custom-icon-badges.demolab.com/badge/Matplotlib-71D291?logo=matplotlib&logoColor=fff)](#)
 [![NumPy](https://img.shields.io/badge/NumPy-4DABCF?logo=numpy&logoColor=fff)](#)
 [![Pandas](https://img.shields.io/badge/Pandas-150458?logo=pandas&logoColor=fff)](#)
 
-### &nbsp;&nbsp;&nbsp;&nbsp; 4. Frameworks &  Technologies
+#### &nbsp;&nbsp;&nbsp;&nbsp; 4. Frameworks &  Technologies
 &nbsp;&nbsp;&nbsp;&nbsp;[![Anaconda](https://img.shields.io/badge/Anaconda-44A833?logo=anaconda&logoColor=fff)](#)
 [![Babel](https://img.shields.io/badge/Babel-F9DC3E?logo=babel&logoColor=000)](#)
 [![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?logo=bootstrap&logoColor=fff)](#)
