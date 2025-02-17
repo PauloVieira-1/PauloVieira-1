@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-<h3>My coding experience</h3>
+<h3>I have experience in the following areas</h3>
 <p>
   <img alt="html5" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
   <img alt="Javascript" src="https://img.shields.io/badge/-javascript-f7df1c?style=flat-square&logo=javascript&logoColor=black" />
