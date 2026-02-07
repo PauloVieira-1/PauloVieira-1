@@ -1,18 +1,5 @@
 ![Alt text](https://raw.githubusercontent.com/PauloVieira-1/PauloVieira-1/main/Screenshot%202025-02-17%20at%208.04.41%20PM.png)
 
-### About Me 🇿🇦 🇵🇹	
----
-
-I am a student currently completing my Bachelor's degree at Eindhoven University of Technology. Despite doing my higher education in The Netherlands, I was born South Africa, am half Portuguese and did my high school education in Dubai. Having had such an international background, I have been given the opportunity to see how the impact of technology and technological revolution has shaped cultures and identities on a global scale. From witnessing the complex computer softwares used by my father as an air traffic controller in South Africa, to seeing how student led coding projects in Dubai leading to the development of sustainable smart neighborhoods, I have grown up seeing the impact of technology in every environment. As a result, I too want to contriibute to this dynamic system, and am therefore be perusing a career in software development.   
-
-#### Hobbies 
-1. Cycling 
-2. Drawing 
-3. Reading
-4. Bouldering 
-5. Programming 😎
-6. Volunteering at Church 
-
 ### Tech Stack 💻
   ---
   #### &nbsp;&nbsp;&nbsp;&nbsp; 1. Languages 
